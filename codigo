@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="Mario,Raul,Ruben" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <h2>Repositorios Git</h2>
+    <a href="https://youtu.be/y_IKsK3GdGA?si=KjjK1MjFi7CosBAQ">Enlace a Video</a>
+    <h2>Herramientas CASE</h2>
+    <a href="https://youtu.be/1AW4CMm3G5U?feature=shared">Enlace a Video</a>
+    <h2>Entornos de Desarrollo</h2>
+    <a href="https://youtu.be/sZhsVm-aqNU?feature=shared">Enlace a Video</a>
+    <h2>Instalación de JAVA JDK</h2>
+    <h3>Mario Pascual Medina</h3>
+    <p>La version 17 en C:\Program Files\Java\jdk-17</p>
+    <img src="http://imgfz.com/i/xIuvRWP.png" ">
+<p>Estas variables son: “JAVA_HOME” y “PATH”.</p>
+<img src=" http://imgfz.com/i/uU85Gj7.png" alt="">
+    <h3>Raul</h3>
+    <p>La version 17 en C:\Users\lolo\Downloads\jdk-17_windows-x64_bin\jdk-17.0.9</p>
+    <img src="http://imgfz.com/i/zEliV1n.png">
+    <p>Estas variables son: “JAVA_HOME” y “PATH”.</p>
+    <img src="http://imgfz.com/i/k0cPG8W.png" alt="">
+    <h3>Rubén García Pozo</h3>
+    <p>La version 21 en C:\Program Files\Java\jdk-21</p>
+    <img src="http://imgfz.com/i/4wvKtzS.png">
+    <p>Estas variables son: “JAVA_HOME” y “PATH”.</p>
+    <img src="http://imgfz.com/i/my1k6d2.png" alt=""><br><br><br>
+    <h2>Instalación de Entornos de Desarrollo.</h2>
+    <h3>Mario Pascual Medina</h3>
+    <p>Eclipse y su version es 2023/09 (4.29.0)</p>
+    <img src="http://imgfz.com/i/zrDqnNx.png" alt=""><br<h3>Rubén García Pozo</h3>
+    <p>Eclipse y su version es 2023/12 (4.30.0)</p>
+    <img src="http://imgfz.com/i/SVprTsa.png" alt=""><br>
+    <h3>Raúl Castillo Escobar</h3>
+    <p>Eclipse y su version es 2023/12 (4.30.0)</p>
+    <img src="https://cdn.discordapp.com/attachments/561844373160067084/1186356915878514818/image.png?ex=6592f3fa&is=65807efa&hm=1b894623a7ba8b87778233a2a660720a2a6f3662ad30d0484cbafc4f88e3681b&" alt=""><br>
+    <h2>Configuración de Entorno de Desarrollo.</h2>
+    <h3>Rubén García Pozo</h3>
+    <p>Eclipse y su version es 2023/12 (4.30.0)</p>
+    <img src="http://imgfz.com/i/SVprTsa.png" alt=""><br>
+    <p>Trabajando con eclipse no es necesario instalar ninguna extensión</p>
+  <h3>Raúl Castillo Escobar</h3>
+    <p>Eclipse y su version es 2023/12 (4.30.0)</p>
+    <img src="https://cdn.discordapp.com/attachments/561844373160067084/1186356915878514818/image.png?ex=6592f3fa&is=65807efa&hm=1b894623a7ba8b87778233a2a660720a2a6f3662ad30d0484cbafc4f88e3681b&" alt=""><br>
+    <p>Al estar trabajando en eclipse no es necesaria ninguna extensión</p>
+ <h3>Mario Pascual Medina</h3>
+    <p>Eclipse y su version es 2023/09 (4.29.0)</p>
+    <img src="http://imgfz.com/i/zrDqnNx.png" alt="">
+<p>En eclipse no es necesaria ninguna extensión</p>
+    <h2>Creación y ejecución de un Proyecto JAVA.</h2>
+    <img src="http://imgfz.com/i/JiqrsB7.png" alt=""><br>
+</body>
+
+</html>
